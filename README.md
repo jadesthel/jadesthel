@@ -1,5 +1,3 @@
-# Bem-vindo ao meu perfil!
-
 Sou estudante de **Engenharia de Computação** no [Inatel](https://inatel.br/) (Instituto Nacional de Telecomunicações), atualmente no **3º período**.
 
 Apaixonada por desenvolvimento, projetos eletrônicos e compartilhar conhecimento. Sempre buscando aprender mais.
@@ -39,5 +37,13 @@ Apaixonada por desenvolvimento, projetos eletrônicos e compartilhar conheciment
 - Projetos eletrônicos e IoT
 - Game development
 - Educação em tecnologia
+
+---
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=jade_sthel&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=902092&bar_color_cover=false">
+  </a>
+</p>
 
 ---
