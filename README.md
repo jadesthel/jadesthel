@@ -23,10 +23,10 @@ Sempre buscando aprender mais.
 ### 𖹭.ᐟ Linguagens de Programação
 
 ```
-𔘓 C++         → Desenvolvimento no Falcon
-𔘓 C           → Programação embarcada com Arduino IDE  
-𔘓 Python      → Projetos diversos no VSCode
-𔘓 Construct 3 → Desenvolvimento de games 2D
+𔘓 C++
+𔘓 C 
+𔘓 Python
+𔘓 Construct 3
 ```
 
 ### .✦ ݁˖ Ferramentas & Plataformas
