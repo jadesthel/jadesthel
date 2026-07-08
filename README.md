@@ -52,6 +52,9 @@ Sempre buscando aprender mais.
 - Ensino de programação embarcada e eletrônica
 - Orientação prática em projetos com microcontroladores
 
+**Instrutor de Programação** – Projeto Casa Viva (2025/2)
+- Ensino de programação em Python
+
 </div>
 
 ---
